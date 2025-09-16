@@ -1,1 +1,2 @@
-# Metkom2025
+#hari ini belajar git dan github
+##masih mumet
