@@ -17,4 +17,4 @@
 ☘ Perbedaan antara forking dan cloning saat berkontribusi di repository orang lain.
 
 tugas 2
-![image alt](https://github.com/arghif/Metkom2025/blob/8e064eaadcb15e8be689baf690baeb04036b74f8/README.md)
+![image alt](https://github.com/arghif/Metkom2025/blob/cb765efa6d89d9fb229d504138932551572fe220/Screenshot%202025-09-22%20222905.png)
